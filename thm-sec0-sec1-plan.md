@@ -30,26 +30,26 @@ Three sentences beats a blank page every time.
 # PHASE 1 — Pre Security (SEC0)
 
 ## Week 1 — Get on the board + start networking
-- [ ] Day 1 — Offensive Security Intro  *(may already be done — free tick if so)*
-- [ ] Day 2 — Defensive Security Intro  *(may already be done)*
-- [ ] Day 3 — Careers in Cyber
-- [ ] Day 4 — What is Networking?
-- [ ] Day 5 — Intro to LAN
-- [ ] Day 6 — OSI Model
-- [ ] Day 7 — Packets & Frames
+- [x] Day 1 — Offensive Security Intro  *(may already be done — free tick if so)*
+- [x] Day 2 — Defensive Security Intro  *(may already be done)*
+- [x] Day 3 — Careers in Cyber
+- [x] Day 4 — What is Networking?
+- [x] Day 5 — Intro to LAN
+- [x] Day 6 — OSI Model
+- [x] Day 7 — Packets & Frames
 
 ## Week 2 — Finish networking, learn how the web works
-- [ ] Day 8 — Extending Your Network  ⭐ *Section 2 complete*
-- [ ] Day 9 — DNS in Detail
-- [ ] Day 10 — HTTP in Detail
-- [ ] Day 11 — How Websites Work
-- [ ] Day 12 — Putting it all together  ⭐ *Section 3 complete*
-- [ ] Day 13 — Inside a Computer System
-- [ ] Day 14 — Computer Types
+- [x] Day 8 — Extending Your Network  ⭐ *Section 2 complete*
+- [x] Day 9 — DNS in Detail
+- [x] Day 10 — HTTP in Detail
+- [x] Day 11 — How Websites Work
+- [x] Day 12 — Putting it all together  ⭐ *Section 3 complete*
+- [x] Day 13 — Inside a Computer System
+- [x] Day 14 — Computer Types
 
 ## Week 3 — Computer + OS fundamentals
-- [ ] Day 15 — Client-Server Basics
-- [ ] Day 16 — Virtualisation Basics
+- [x] Day 15 — Client-Server Basics
+- [] Day 16 — Virtualisation Basics
 - [ ] Day 17 — Cloud Computing Fundamentals  ⭐ *Section 4 complete*
 - [ ] Day 18 — Operating Systems: Introduction
 - [ ] Day 19 — Windows Basics
