@@ -49,7 +49,7 @@ Three sentences beats a blank page every time.
 
 ## Week 3 — Computer + OS fundamentals
 - [x] Day 15 — Client-Server Basics
-- [] Day 16 — Virtualisation Basics
+- [ ] Day 16 — Virtualisation Basics
 - [ ] Day 17 — Cloud Computing Fundamentals  ⭐ *Section 4 complete*
 - [ ] Day 18 — Operating Systems: Introduction
 - [ ] Day 19 — Windows Basics
