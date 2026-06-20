@@ -49,17 +49,17 @@ Three sentences beats a blank page every time.
 
 ## Week 3 — Computer + OS fundamentals
 - [x] Day 15 — Client-Server Basics
-- [ ] Day 16 — Virtualisation Basics
-- [ ] Day 17 — Cloud Computing Fundamentals  ⭐ *Section 4 complete*
-- [ ] Day 18 — Operating Systems: Introduction
-- [ ] Day 19 — Windows Basics
-- [ ] Day 20 — Linux CLI Basics
-- [ ] Day 21 — Windows CLI Basics
+- [x] Day 16 — Virtualisation Basics
+- [x] Day 17 — Cloud Computing Fundamentals  ⭐ *Section 4 complete*
+- [x] Day 18 — Operating Systems: Introduction
+- [x] Day 19 — Windows Basics
+- [x] Day 20 — Linux CLI Basics
+- [x] Day 21 — Windows CLI Basics
 
 ## Week 4 — OS security, software & code basics
-- [ ] Day 22 — Operating System Security  ⭐ *Section 5 complete*
-- [ ] Day 23 — Data Representation
-- [ ] Day 24 — Data Encoding
+- [x] Day 22 — Operating System Security  ⭐ *Section 5 complete*
+- [x] Day 23 — Data Representation
+- [x] Day 24 — Data Encoding
 - [ ] Day 25 — Python: Simple Demo
 - [ ] Day 26 — JavaScript: Simple Demo
 - [ ] Day 27 — Database SQL Basics  ⭐ *Section 6 complete*
